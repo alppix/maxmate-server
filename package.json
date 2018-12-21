@@ -8,5 +8,15 @@
     "type": "git",
     "url": "git+https://github.com/alppix/maxmate-server.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.2.1",
+    "@commitlint/config-conventional": "^7.1.2",
+    "husky": "^1.2.1"
+  }
 }
