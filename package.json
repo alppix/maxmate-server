@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "apollo:service:push": "apollo service:push --key=$APOLLO_ENGINE_API_KEY --endpoint=$APOLLO_ENDPOINT",
     "build": "webpack --config webpack.$NODE_ENV.js",
     "lint": "tslint --project tsconfig.json",
     "semantic-release": "semantic-release",
@@ -58,6 +59,7 @@
     "@types/jest": "^23.3.10",
     "@types/node": "^10.12.18",
     "@types/webpack-env": "^1.13.6",
+    "apollo": "^2.1.8",
     "apollo-server-testing": "^2.3.1",
     "clean-webpack-plugin": "^1.0.0",
     "dotenv": "^6.2.0",
