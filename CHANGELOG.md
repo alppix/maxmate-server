@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alppix/maxmate-server/compare/1.0.0...1.1.0) (2018-12-24)
+
+
+### Features
+
+* **server:** setup Apollo Engine ([#3](https://github.com/alppix/maxmate-server/issues/3)) ([262bcd2](https://github.com/alppix/maxmate-server/commit/262bcd2))
+
 # [1.0.0](https://github.com/alppix/maxmate-server/compare/0.0.0...1.0.0) (2018-12-22)
 
 
