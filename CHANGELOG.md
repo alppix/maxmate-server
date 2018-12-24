@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/alppix/maxmate-server/compare/1.1.0...1.1.1) (2018-12-24)
+
+
+### Bug Fixes
+
+* **docker:** install NPM dependencies only for production ([#4](https://github.com/alppix/maxmate-server/issues/4)) ([48ccd32](https://github.com/alppix/maxmate-server/commit/48ccd32))
+
 # [1.1.0](https://github.com/alppix/maxmate-server/compare/1.0.0...1.1.0) (2018-12-24)
 
 
